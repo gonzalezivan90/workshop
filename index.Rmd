@@ -1,5 +1,5 @@
 ---
-title: "Introducción al procesamiento, visualización y mapeo de datos espaciales en R"
+title: "Talleres para divulgación de material para generación de modelos de distribución de especies"
 
 output:
 
@@ -11,15 +11,17 @@ html_document:
     highlight: tango
 ---
 
-<font size="4"><a href="R_curso_SCMas.html">Día 1</a></font>
-<font size="4"><a href="R_curso_SCMas_dia2.html">Día 2</a></font>
-<font size="4"><a href="Datos_Curso_R_SCMas.zip">Datos</a></font>
+<font size="4"><a href="Case_A.html">Case A</a></font>
+<font size="4"><a href="Case_B.html">Case B</a></font>
+<font size="4"><a href="Case_C.html">Case C</a></font>
+<font size="4"><a href="Case_D.html">Case D</a></font>
+<font size="4"><a href="Case_E.html">Case E</a></font>
 
 <center>
 ![](taller_R.png){width=50% height=50%}
 </center>
 
-## !Nueva fecha de curso ! 9 y 10 de julio de 2022
+## Titulo acá
 
 El próximo 9 y 10 de julio habrá una nueva edición de nuestro curso en español para la visualización de datos espaciales en R. Es GRATUITO para estudiantes socios de la sociedad colombiana de mastozoología. El costo es muy asequible para profesionales (COP $100,000 para socios y COP $200,000 para no socios). 
 
@@ -47,7 +49,7 @@ Generación de mapas (raster, ggmap, leaflet)
 
 ## Datos 
 
-Los datos requeridos para completar el curso se encuentran disponibles acá: <a href="Datos_Curso_R_SCMas.zip">Datos_Curso_R_SCMas.zip</a>
+Los datos requeridos para completar el curso se encuentran disponibles acá: <a href="a.zip">LINK TEMPORAL</a>
  
 ## Requisitos
  
@@ -59,14 +61,10 @@ Para el segundo día, un conocimiento básico sobre conceptos relacionados con s
 
 ## Instructores  
  
-Dr. Felipe Suárez-Castro. Universidad de Griffith, Australia – Sociedad Colombiana de Mastozoología  
-
-Dr. Diego Lizcano. Sociedad Colombiana de Mastozoología
-
-Contacto: felipesuarezca@gmail.com  
+Contacto: 
 
 ## Créditos
 
-Algunos ejercicios presentados en este curso están adaptados del excelente curso desarrollado por C.J. Brown, D. Schoeman, A.J. Richardson y B. Venables, el cual se encuentra disponible en:
+Creditos acá
 
 https://www.seascapemodels.org/code.html
